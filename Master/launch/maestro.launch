@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find ej1)/launch/launch.launch"/>
+    <include file="$(find ej2)/launch/launch.launch"/>
+    <include file="$(find ej3)/launch/launch.launch"/>
+    <include file="$(find ej4)/launch/launch.launch"/>
+    <include file="$(find ej5)/launch/launch.launch"/>
+</launch>
